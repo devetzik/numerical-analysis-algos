@@ -20,8 +20,6 @@ It combines implementations for solving non-linear equations, linear systems, ei
   - [7. Stock Prediction](#7-stock-prediction)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Author](#author)
 
 ## Overview
 
@@ -101,3 +99,12 @@ The project is organized into numbered folders corresponding to the course exerc
 │   └── stock_prediction.py            # Stock market polynomial fitting
 │
 └── analysis_report.pdf                # Detailed PDF report with theory and results
+```
+
+## Requirements
+
+To run the scripts, you need Python 3.x and the following libraries:
+
+NumPy: For matrix operations and linear algebra.
+
+Matplotlib: For plotting functions and error graphs.
